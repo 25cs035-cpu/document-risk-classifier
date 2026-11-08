@@ -1,0 +1,61 @@
+document,snippet,true_label,predicted,confidence,source
+test_doc_8,Vendor Contract - Ref 2112. Records related to this matter are retained for seven years in line with company practice. This document should be read together wit,High,High,0.73,test set
+test_doc_204,Invoice Review - Ref 8181. Critical security controls were found missing and sensitive data was transferred without consent. The agreement contains unlimited li,High,High,0.963,test set
+test_doc_96,Service Agreement - Ref 6219. Staff training completion is below the required target and a reminder was issued. The service levels are not clearly defined and c,Medium,Medium,0.886,test set
+test_doc_277,Audit Summary - Ref 1863. Several invoices were paid late and the vendor has requested a revised schedule. Payment terms are thirty days from the date of invoic,Medium,Low,0.803,test set
+test_doc_141,Compliance Memo - Ref 2851. The responsible manager will review this document at the next quarterly meeting. The supplier is on the approved vendor list and was,Medium,Medium,0.936,test set
+test_doc_257,Audit Summary - Ref 8237. This document is issued by the Operations department and applies to all business units. The company faces a regulatory fine for non-co,High,High,0.773,test set
+test_doc_127,Audit Summary - Ref 3096. Data is shared with a subcontractor whose security review is not yet complete. Liability is capped at the total fees paid under this a,Low,Low,0.878,test set
+test_doc_164,Invoice Review - Ref 2095. Both parties confirmed that all obligations were fulfilled on schedule. The parties have agreed to the terms set out in the schedules,High,High,0.814,test set
+test_doc_203,Vendor Contract - Ref 9512. The parties have agreed to the terms set out in the schedules attached to this document. The renewal clause is ambiguous and may all,Medium,Medium,0.894,test set
+test_doc_273,Audit Summary - Ref 2466. An internal audit found documentation gaps that must be fixed within sixty days. The responsible manager will review this document at ,High,High,0.956,test set
+test_doc_262,Invoice Review - Ref 9935. The service levels are not clearly defined and could lead to disputes. The audit identified fraud and falsified records that require ,High,High,0.752,test set
+test_doc_161,Compliance Memo - Ref 4070. No incidents or complaints were recorded during the review period. The project team met on Tuesday to discuss deliverables and timel,Medium,Medium,0.883,test set
+test_doc_120,Service Agreement - Ref 3197. Training records show that all staff completed the mandatory compliance course. The service levels are not clearly defined and cou,Medium,Medium,0.815,test set
+test_doc_98,Audit Summary - Ref 7882. The service levels are not clearly defined and could lead to disputes. The supplier is on the approved vendor list and was audited suc,Low,Low,0.97,test set
+test_doc_285,Service Agreement - Ref 8855. All notices must be sent in writing to the registered address of each party. The contract has no confidentiality protection and tr,Low,Low,0.732,test set
+test_doc_231,Invoice Review - Ref 2786. The counterparty appears on a sanctions list and the payment was blocked. Several invoices were paid late and the vendor has requeste,Medium,Medium,0.936,test set
+test_doc_89,Service Agreement - Ref 7356. The project team met on Tuesday to discuss deliverables and timelines. All notices must be sent in writing to the registered addre,High,High,0.754,test set
+test_doc_6,Internal Policy - Ref 2078. Data is shared with a subcontractor whose security review is not yet complete. A policy exception was granted temporarily and needs ,Medium,Medium,0.781,test set
+test_doc_118,Incident Report - Ref 6563. This document should be read together with the master services agreement. The audit identified fraud and falsified records that requ,High,Medium,0.519,test set
+test_doc_4,Invoice Review - Ref 6423. Litigation has been filed against the company for breach of contract and damages. The vendor may terminate without notice and impose ,High,High,0.975,test set
+test_doc_287,Data Processing Addendum - Ref 7635. All required approvals were obtained and signed before the effective date. Staff training completion is below the required ,Low,Low,0.736,test set
+test_doc_187,Service Agreement - Ref 8499. There is a serious violation of anti-corruption policy and the case was sent to external counsel. The contract follows the standar,High,High,0.751,test set
+test_doc_55,Incident Report - Ref 4177. Training records show that all staff completed the mandatory compliance course. The counterparty appears on a sanctions list and the,High,High,0.908,test set
+test_doc_226,Compliance Memo - Ref 1606. This document is issued by the Operations department and applies to all business units. The contract follows the standard company te,Low,Low,0.689,test set
+test_doc_99,Incident Report - Ref 1458. Payment terms are thirty days from the date of invoice unless otherwise agreed. The vendor may terminate without notice and impose s,Low,Low,0.617,test set
+test_doc_254,Audit Summary - Ref 8367. Critical security controls were found missing and sensitive data was transferred without consent. Litigation has been filed against th,High,Medium,0.882,test set
+test_doc_61,Service Agreement - Ref 4748. The company faces a regulatory fine for non-compliance with data protection law. The agreement contains unlimited liability and un,High,High,0.83,test set
+test_doc_207,Data Processing Addendum - Ref 4826. All notices must be sent in writing to the registered address of each party. The supplier is on the approved vendor list an,Low,Low,0.875,test set
+test_doc_80,Vendor Contract - Ref 2848. An internal audit found documentation gaps that must be fixed within sixty days. Training records show that all staff completed the ,Low,Low,0.847,test set
+test_doc_112,Data Processing Addendum - Ref 2754. The invoice matches the purchase order and was approved by the budget owner. This document is issued by the Operations depa,Low,Low,0.596,test set
+test_doc_67,Incident Report - Ref 2499. Several invoices were paid late and the vendor has requested a revised schedule. Both parties confirmed that all obligations were fu,High,High,0.465,test set
+test_doc_34,Invoice Review - Ref 7174. An internal audit found documentation gaps that must be fixed within sixty days. A policy exception was granted temporarily and needs,Low,Medium,0.534,test set
+test_doc_170,Audit Summary - Ref 1153. A low-value complaint was raised by a customer and is currently under investigation. The project team met on Tuesday to discuss delive,Medium,Medium,0.428,test set
+test_doc_275,Compliance Memo - Ref 7514. The counterparty appears on a sanctions list and the payment was blocked. A data breach exposed customer personal information and re,High,High,0.916,test set
+test_doc_57,Compliance Memo - Ref 9319. Both parties confirmed that all obligations were fulfilled on schedule. The parties have agreed to the terms set out in the schedule,Medium,Medium,0.895,test set
+test_doc_117,Data Processing Addendum - Ref 6343. This document is issued by the Operations department and applies to all business units. The invoice matches the purchase or,Low,Low,0.833,test set
+test_doc_74,Incident Report - Ref 7735. The parties have agreed to the terms set out in the schedules attached to this document. This document is issued by the Operations d,Medium,Medium,0.954,test set
+test_doc_159,Vendor Contract - Ref 1253. Critical security controls were found missing and sensitive data was transferred without consent. The agreement contains unlimited l,High,High,0.952,test set
+test_doc_224,Service Agreement - Ref 7154. Liability is capped at the total fees paid under this agreement in the previous twelve months. Records related to this matter are ,High,High,0.477,test set
+test_doc_199,Service Agreement - Ref 4374. Payment terms are thirty days from the date of invoice unless otherwise agreed. The audit identified fraud and falsified records t,Low,Low,0.822,test set
+test_doc_274,Data Processing Addendum - Ref 3772. There is a serious violation of anti-corruption policy and the case was sent to external counsel. Data is shared with a sub,Medium,Medium,0.914,test set
+test_doc_60,Compliance Memo - Ref 3367. Critical security controls were found missing and sensitive data was transferred without consent. The vendor certificate expires nex,Medium,Medium,0.757,test set
+test_doc_68,Incident Report - Ref 7631. A minor deviation from the standard template was identified in the payment section. The supplier is on the approved vendor list and ,Low,Low,0.923,test set
+test_doc_272,Vendor Contract - Ref 1326. Staff training completion is below the required target and a reminder was issued. There is a serious violation of anti-corruption po,Medium,Medium,0.757,test set
+test_doc_261,Incident Report - Ref 6222. Records related to this matter are retained for seven years in line with company practice. The vendor certificate expires next month,High,High,0.696,test set
+test_doc_232,Compliance Memo - Ref 5776. The vendor certificate expires next month and renewal has not been confirmed. All notices must be sent in writing to the registered ,High,High,0.963,test set
+test_doc_288,Audit Summary - Ref 6185. The vendor has passed all routine compliance checks and holds valid certifications. The supplier is on the approved vendor list and wa,Low,Low,0.607,test set
+test_doc_205,Compliance Memo - Ref 9174. The counterparty appears on a sanctions list and the payment was blocked. Personal data is processed only within approved systems an,Medium,Medium,0.449,test set
+test_doc_103,Compliance Memo - Ref 9325. The policy has been reviewed by legal and requires no changes. All notices must be sent in writing to the registered address of each,Low,Low,0.94,test set
+test_doc_290,Compliance Memo - Ref 8314. The transaction shows indicators of possible money laundering and was escalated to compliance. Litigation has been filed against the,Medium,Medium,0.929,test set
+test_doc_22,Invoice Review - Ref 5976. The responsible manager will review this document at the next quarterly meeting. A data breach exposed customer personal information ,Low,High,0.649,test set
+test_doc_23,Compliance Memo - Ref 7143. No incidents or complaints were recorded during the review period. Both parties confirmed that all obligations were fulfilled on sch,Low,High,0.39,test set
+test_doc_1,Data Processing Addendum - Ref 9184. The policy has been reviewed by legal and requires no changes. A minor deviation from the standard template was identified ,Medium,Medium,0.689,test set
+test_doc_40,Service Agreement - Ref 5254. Critical security controls were found missing and sensitive data was transferred without consent. Payment terms are thirty days fr,High,High,0.955,test set
+test_doc_97,Incident Report - Ref 5353. The supplier is on the approved vendor list and was audited successfully this year. Payment terms are thirty days from the date of i,Low,Low,0.957,test set
+test_doc_168,Vendor Contract - Ref 7372. A minor deviation from the standard template was identified in the payment section. Insurance coverage meets the minimum requirement,Medium,Medium,0.788,test set
+test_doc_291,Internal Policy - Ref 2531. The company faces a regulatory fine for non-compliance with data protection law. Payment terms are thirty days from the date of invo,Medium,High,0.491,test set
+test_doc_202,Service Agreement - Ref 9184. An internal audit found documentation gaps that must be fixed within sixty days. Staff training completion is below the required t,Medium,Medium,0.812,test set
+test_doc_18,Internal Policy - Ref 9577. All required approvals were obtained and signed before the effective date. The parties have agreed to the terms set out in the sched,Low,Low,0.669,test set
+test_doc_176,Vendor Contract - Ref 4405. Training records show that all staff completed the mandatory compliance course. Both parties confirmed that all obligations were ful,Low,Low,0.65,test set
