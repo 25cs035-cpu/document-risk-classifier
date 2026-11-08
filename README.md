@@ -34,3 +34,13 @@ Confusion matrix: `reports/confusion_matrix.png`
 ## Limitations / future work
 - Synthetic data is cleaner than real documents; retrain on real labelled data.
 - Try sentence embeddings or fine-tuned transformers; add calibration of probabilities.
+## Screenshots
+
+### Classify page
+![Classify page](classify.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Confusion matrix
+![Confusion matrix](reports/confusion_matrix.png)
